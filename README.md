@@ -6,8 +6,7 @@
 
 [![Personal](https://img.shields.io/badge/Telegram-Personal-ff000d?style=flat-square&logo=telegram)](https://t.me/cryylul)
 
-<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Red_star.svg/220px-Red_star.svg.png" width="147"/>
-</div>
+
 
 ## 🕸️ About Me
 ```python
