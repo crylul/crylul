@@ -1,16 +1,43 @@
-## Hi there 👋
+# hi, i'm cry..
 
-<!--
-**crylul/crylul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&width=435&lines=hi+im+cry;i+am+a+python+dev;%40boxd+on+cord)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+ ![PROFILE VIEWS](https://komarev.com/ghpvc/?username=vehf&label=PROFILE+VIEWS&color=red&style=flat-square)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Personal](https://img.shields.io/badge/Telegram-Personal-ff000d?style=flat-square&logo=telegram)](https://t.me/cryylul)
+
+<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Red_star.svg/220px-Red_star.svg.png" width="147"/>
+</div>
+
+## 🕸️ About Me
+```python
+class Cry:
+    def __init__(self):
+        self.name = "Cry"
+        self.telegram = "@cryylul"
+        self.interests = ["Bot Development", "Security", "Privacy"]
+       
+```
+## 🕸️ Current Contact Information
+```python
+contact_info = {
+    "personal": "dc: @boxd",
+    "srv": "https://discord.gg/proud",
+    "platform": "Discord (for enhanced privacy)"
+}
+```
+
+## 🕸️ Tech Stack
+```python
+tech_stack = {
+    "languages": ["Python", "C++", "C"],
+    "frameworks": ["discord.py"],
+    "focus": ["Security", "Privacy", "Automation"],
+    "platforms": ["Windows", "Linux"]
+}
+```
+
+---
+<div align="center">
+  <i>Privacy and Security First</i>
+</div>
